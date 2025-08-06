@@ -1,6 +1,6 @@
 # Redmine to Jira & Confluence Migration Toolkit
 
-This toolkit helps you export issues and wiki content from Redmine and import them into Cloud version of Jira and Confluence, while preserving metadata, formatting, attachments, and hierarchy. You need to have access to create API keys for both Redmine and Atlassian in order to use this script.
+This toolkit helps you export issues and wiki content from Redmine and import them into the Cloud version of Jira and Confluence, while preserving metadata, formatting, attachments, and hierarchy. You need to have access to create API keys for both Redmine and Atlassian in order to use this script.
 
 ---
 
